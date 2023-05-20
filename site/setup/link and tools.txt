@@ -1,0 +1,9 @@
+https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome
+Tools:
+-Github.com account
+-Chrome browser(have Chrome Developer Tools)
+-Sublime Text 3
+-Git
+-Browser Sync
++Need to install NodeJs for it to work
+(check if it gets installed: for git git--version, for nodejs: node --version and npm --version(node package manager), browser-sync --version)

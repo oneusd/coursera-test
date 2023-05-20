@@ -1,0 +1,1 @@
+semantic elements allow for more meaningful expression of the structure but no more functionality than regular div.

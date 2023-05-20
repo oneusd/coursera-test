@@ -1,0 +1,5 @@
+browser-sync: sync the folder with local host so every change with html file show in local host right away
+browser-sync start --server --directory --files "*"
+--server: server mode
+--directory: 
+--file "*": reload and change everything

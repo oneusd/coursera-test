@@ -1,0 +1,21 @@
+Take repository from web to my local machine
+-get https link from git hub
+-open cmd, change directory to right directory:C:\Users\User\html
+-git clone <https link>
+-make new directory in here: md site, cd site_in need subfolder site inside html
+-open sublime text, save to site folder
+-create html file
+-git status, will see ./ mean it is not committed
+-cd.. to go back html folder
+-git status, will see site/ in red mean it is not committed
+-to commit something, first mark then commit
+-git add . (to mark everything inside folder site)
+-git commit -m "My First page."  (m is required for message)
+-git push (to update everything from local machine to github)
+
+-some git commands:
+git status
+git clone
+git add
+git commit
+git push
